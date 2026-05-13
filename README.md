@@ -11,3 +11,12 @@ Azure Arc onboarding
 KQL-based investigations
 
 The environment was built using low-cost resources and local virtualization to simulate enterprise SOC workflows.
+
+Completed Labs
+Microsoft Sentinel Security Event Ingestion
+Azure Arc Hybrid Endpoint Integration
+Azure Monitor Agent Deployment
+Event ID 4625 Failed Login Detection
+Brute Force Detection Analytics Rule
+Sentinel Incident Creation
+MITRE ATT&CK Mapping (T1110)
