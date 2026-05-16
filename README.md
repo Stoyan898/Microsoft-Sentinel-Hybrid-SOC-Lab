@@ -49,6 +49,7 @@ Microsoft Sentinel
 | Lab | Skills Demonstrated |
 
 | [Brute Force Detection](./brute-force-detection/) | KQL detection logic, analytics rules, incident generation |
+
 | [Sysmon Ingestion](./sysmon-ingestion/) | Endpoint telemetry, process monitoring, Sysmon configuration |
 
 
