@@ -51,6 +51,7 @@ Microsoft Sentinel
 | [Brute Force Detection](./brute-force-detection/) | KQL detection logic, analytics rules, incident generation |
 
 | [Sysmon Ingestion](./sysmon-ingestion/) | Endpoint telemetry, process monitoring, Sysmon configuration |
+
 | [PowerShell Abuse Detection](./powershell-abuse-detection/) | PowerShell monitoring, detection engineering, Sysmon telemetry, MITRE ATT&CK mapping |
 
 ## 🧠 Key Skills
